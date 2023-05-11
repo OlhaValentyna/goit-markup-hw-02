@@ -87,19 +87,17 @@ body {
 }
 
 /* Main section hero */
-.hero {}
+.hero {
+    background-color: #2E2F42;
+}
 
 .hero-titel {
 
     font-weight: 700;
     font-size: 56px;
     line-height: 1.07;
-    text-align: center;
     letter-spacing: 0.02em;
     color: #FFFFFF;
-    /* delet */
-    background-color: #434455;
-    /* delet */
 
 }
 
@@ -150,6 +148,14 @@ body {
 }
 
 /* < !-- Our Team --> */
+.our-team {
+    background-color: #F4F4FD;
+}
+
+.team-members {
+    background: var(--backdround-color);
+}
+
 .name-employee {
     font-weight: 500;
     font-size: 20px;
@@ -228,6 +234,7 @@ body {
     /* IRIS */
 
     color: #4D5AE5;
+    cursor: pointer;
 }
 
 .portfolio-item {
