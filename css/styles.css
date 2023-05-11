@@ -131,6 +131,7 @@ body {
     font-size: 20px;
     line-height: 1.2;
     letter-spacing: 0.02em;
+    color: var(--secondary-color-text);
 }
 
 .features-descr {
@@ -148,6 +149,7 @@ body {
     text-align: center;
     letter-spacing: 0.02em;
     text-transform: capitalize;
+    color: var(--secondary-color-text);
 }
 
 /* < !-- Our Team --> */
@@ -164,6 +166,7 @@ body {
     font-size: 20px;
     line-height: 1.2;
     letter-spacing: 0.02em;
+    color: var(--secondary-color-text);
 }
 
 .emloyee-desc {
